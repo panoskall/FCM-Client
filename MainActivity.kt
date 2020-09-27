@@ -1,4 +1,4 @@
-package com.notify.v01
+package com.yourpackage.com
 
 import android.content.ClipData
 import android.os.Bundle
