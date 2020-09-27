@@ -1,4 +1,4 @@
-package com.notify.v01
+package com.yourpackage.com
 
 import android.util.Log
 import com.google.firebase.messaging.FirebaseMessagingService
